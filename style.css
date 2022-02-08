@@ -1,0 +1,39 @@
+h1{
+  display: table;
+        margin: 200px 700px;
+        padding: 50px;
+        font-size: 80px;
+        background-color: #50733a; 
+  color:white;
+  position: absolute;
+  z-index:2;
+}
+#credit{
+  font-size: 10px;
+  font-family: sans-serif;
+  margin: 0.1px;
+}
+
+#info{
+   display: table;
+        text-align: left;
+        margin: 10px;
+        padding: 10px;
+        font-size: 20px;
+        background-color: #50733a;
+  color:white;
+ 
+  
+}
+img{
+  width: 300px;
+  margin: 50px;
+  border: 30px solid #50733a;
+    
+}
+li, a {
+ display: block;
+  width: 50px;
+   background-color: #50733a;
+  border: 5px solid #50733a;
+}
